@@ -3,14 +3,14 @@ Currently the SORTEEDCQC package is not on CRAN, but you can install the develop
 
 ```{r}
 install.packages("devtools")
-devtools::install_github("EIvimeyCook/SORTEEDCQC")
-library(SORTEEDCQC)
+devtools::install_github("EIvimeyCook/DCQC")
+library(DCQC)
 ```
 
 ## Running SORTEE.DCQC
-The only function metRscreen is SORTEEDCQC().
+The only function metRscreen is DCQC().
 
 ```{r}
-library(SORTEEDCQC)
-SORTEEDCQC()
+library(DCQC)
+DCQC()
 ```
