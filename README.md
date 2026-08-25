@@ -24,7 +24,7 @@ The intent is to make data and code checks **consistent between editors, transpa
 
 ## The six stages
 
-The checklist contains **15 items** grouped into six stages. Stages are selected at launch, so an editor reviewing only archived data (or only computational reproducibility) is not shown items that do not apply.
+The checklist contains **15 items** grouped into six stages. Stages are selected at launch, so an editor reviewing only archived data is not shown items that do not apply.
 
 | Stage | Focus | Items |
 |:--|:--|:--|
