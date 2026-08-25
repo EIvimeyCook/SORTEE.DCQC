@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/SORTEE/DCQC/blob/main/inst/DCQC/www/circle_black.png" width = "200"/>
+</p>
+
+<div align="center">
+ <h1>DCQC</h1>
+</div>
+
 ## Installation
 Currently the DCQC package is not on CRAN, but you can install the development version from GitHub using the devtools package:
 
