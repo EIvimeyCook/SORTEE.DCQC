@@ -101,6 +101,9 @@ If you use `DCQC` in an editorial workflow or in research, please cite the guide
 and the software:
 
 > Ivimey-Cook, E. R., & Pick, J. L. (2026). *DCQC: Data and code quality control for ecology and evolutionary biology*. R package version 0.0.0.9000. https://github.com/SORTEE/DCQC
+> 
+A machine-readable [`CITATION.cff`](CITATION.cff) is included, so GitHub's
+"Cite this repository" button gives formatted APA and BibTeX.
 
 ## References
 
@@ -114,6 +117,6 @@ MIT © Edward R. Ivimey-Cook and Joel L. Pick. See [LICENSE](LICENSE).
 ---
 
 <p align="center">
-  Developed under the <a href="https://www.sortee.org/">Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE)</a>.
+  Developed by the <a href="https://www.sortee.org/">Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE)</a>.
 </p>
 
