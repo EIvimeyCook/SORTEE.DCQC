@@ -92,6 +92,11 @@ Items belonging to unselected stages, and items left unanswered, are omitted rat
 
 Bug reports, feature requests, and pull requests are welcome via [GitHub Issues](https://github.com/SORTEE/DCQC/issues). Because the checklist text is a direct implementation of a published, community-agreed standard, changes to the **wording of the items themselves** should be raised as an issue for discussion first — the app should track the guidelines rather than diverge from them.
 
+## References
+
+- Pick, J. L., *et al.* (2026). The SORTEE guidelines for data and code quality control in ecology and evolutionary biology. *Peer Community Journal*, **6**, e20. https://doi.org/10.24072/pcjournal.687 (preprint: https://doi.org/10.32942/X24P8S)
+- Hardwicke, T. E., Bohn, M., MacDonald, K., Hembacher, E., Nuijten, M. B., Peloquin, B. N., deMayo, B. E., Long, B., Yoon, E. J., & Frank, M. C. (2021). Analytic reproducibility in articles receiving open data badges at the journal *Psychological Science*: an observational study. *Royal Society Open Science*, **8**(1), 201494. https://doi.org/10.1098/rsos.201494
+
 ## Citation
 
 If you use `DCQC` in an editorial workflow or in research, please cite the guidelines it implements:
@@ -101,14 +106,14 @@ If you use `DCQC` in an editorial workflow or in research, please cite the guide
 and the software:
 
 > Ivimey-Cook, E. R., & Pick, J. L. (2026). *DCQC: Data and code quality control for ecology and evolutionary biology*. R package version 0.0.0.9000. https://github.com/SORTEE/DCQC
-> 
+
 A machine-readable [`CITATION.cff`](CITATION.cff) is included, so GitHub's
 "Cite this repository" button gives formatted APA and BibTeX.
 
-## References
+## Contact
 
-- Pick, J. L., *et al.* (2026). The SORTEE guidelines for data and code quality control in ecology and evolutionary biology. *Peer Community Journal*, **6**, e20. https://doi.org/10.24072/pcjournal.687 (preprint: https://doi.org/10.32942/X24P8S)
-- Hardwicke, T. E., Bohn, M., MacDonald, K., Hembacher, E., Nuijten, M. B., Peloquin, B. N., deMayo, B. E., Long, B., Yoon, E. J., & Frank, M. C. (2021). Analytic reproducibility in articles receiving open data badges at the journal *Psychological Science*: an observational study. *Royal Society Open Science*, **8**(1), 201494. https://doi.org/10.1098/rsos.201494
+Edward R. Ivimey-Cook — <e.ivimeycook@gmail.com> —
+[ORCID 0000-0003-4910-0443](https://orcid.org/0000-0003-4910-0443)
 
 ## License
 
