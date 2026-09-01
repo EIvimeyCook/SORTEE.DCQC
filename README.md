@@ -112,7 +112,7 @@ A machine-readable [`CITATION.cff`](CITATION.cff) is included, so GitHub's
 
 ## License
 
-MIT © Edward R. Ivimey-Cook and Joel L. Pick. See [LICENSE](LICENSE).
+Released under the [MIT License](LICENSE).
 
 ---
 
